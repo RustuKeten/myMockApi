@@ -1,0 +1,47 @@
+{
+  "users": [
+    {
+      "name": "Hasan",
+      "id": 1,
+      "title": "FS Dev"
+    },
+    {
+      "name": "Koral",
+      "title": "FS Dev",
+      "id": 2
+    },
+    {
+      "name": "David",
+      "title": "Ng Dev",
+      "id": 3
+    },
+    {
+      "name": "Nurettin",
+      "title": "FE Dev",
+      "id": 4
+    },
+    {
+      "name": "Rustu",
+      "title": "Fs Dev",
+      "id": 5
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "description": "javascript basics"
+    },
+    {
+      "id": 2,
+      "description": "python basics"
+    },
+    {
+      "id": 3,
+      "description": "react hooks"
+    },
+    {
+      "id": 4,
+      "description": "angular hooks"
+    }
+  ]
+}
